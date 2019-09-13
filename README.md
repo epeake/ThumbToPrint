@@ -2,7 +2,7 @@
 
 As part of a larger image processing project where we developed an app to takes images of thumbs from an iphone and convert them into fingerprint images.  The algorithm takes advantage of fingerprints' high spatial frequencies to create a mask around the thumb region, then uses local threshilding to extract the ridges and valleys of the thumb.
 
-See example below!
+See example below and http://www.cs.middlebury.edu/~epeake/ipprocess.pdf for a step-by-step image walkthrough!
 
 Original Photo                                                                        |  Extracted Print
 :------------------------------------------------------------------------------------:|:-------------------------:
