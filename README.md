@@ -1,6 +1,8 @@
-# quiccPrints
+# thumb_to_print
 
-Takes images of thumbs from an iphone, using our ios app, and converts them into fingerprint images.  See example below!
+As part of a larger image processing project where we developed an app to takes images of thumbs from an iphone and convert them into fingerprint images.  The algorithm takes advantage of fingerprints' high spatial frequencies to create a mask around the thumb region, then uses local threshilding to extract the ridges and valleys of the thumb.
+
+See example below!
 
 Original Photo                                                                        |  Extracted Print
 :------------------------------------------------------------------------------------:|:-------------------------:
